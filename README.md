@@ -14,4 +14,14 @@
  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white">
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white">
  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+
 </div>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=lgrin-byte&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/lgrin-byte?pet-id=672977275583284139"
+    width="600"
+    height="120"
+  />
+</a>
+  
